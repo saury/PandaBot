@@ -1,0 +1,8 @@
+{
+  "name": "PandaBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:saury/PandaBot.git",
+  "author": "Jin Xu <erlking@outlook.com>",
+  "license": "MIT"
+}
